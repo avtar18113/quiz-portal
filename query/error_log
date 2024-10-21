@@ -1,0 +1,6 @@
+[02-Nov-2023 04:46:38 UTC] PHP Warning:  Undefined array key "answer" in /home/zdatljmxyspx/public_html/quiz.concepttc.in/OnlineExamination/query/submitAnswerExe.php on line 49
+[02-Nov-2023 04:46:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/zdatljmxyspx/public_html/quiz.concepttc.in/OnlineExamination/query/submitAnswerExe.php on line 49
+[02-Nov-2023 04:46:38 UTC] PHP Warning:  Undefined variable $insAns in /home/zdatljmxyspx/public_html/quiz.concepttc.in/OnlineExamination/query/submitAnswerExe.php on line 53
+[04-Nov-2023 12:28:27 UTC] PHP Warning:  Undefined array key "answer" in /home/zdatljmxyspx/public_html/quiz.concepttc.in/OnlineExamination/query/submitAnswerExe.php on line 49
+[04-Nov-2023 12:28:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/zdatljmxyspx/public_html/quiz.concepttc.in/OnlineExamination/query/submitAnswerExe.php on line 49
+[04-Nov-2023 12:28:27 UTC] PHP Warning:  Undefined variable $insAns in /home/zdatljmxyspx/public_html/quiz.concepttc.in/OnlineExamination/query/submitAnswerExe.php on line 53

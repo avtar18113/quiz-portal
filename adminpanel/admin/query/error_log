@@ -1,0 +1,43 @@
+[21-Oct-2022 05:39:54 UTC] PHP Notice:  Undefined variable: year_level in /home/yj41kcoiblwg/public_html/OnlineExamination/adminpanel/admin/query/addExamineeExe.php on line 19
+[21-Oct-2022 05:57:29 UTC] PHP Notice:  Undefined variable: year_level in /home/yj41kcoiblwg/public_html/OnlineExamination/adminpanel/admin/query/addExamineeExe.php on line 19
+[21-Oct-2022 05:58:14 UTC] PHP Notice:  Undefined variable: year_level in /home/yj41kcoiblwg/public_html/OnlineExamination/adminpanel/admin/query/addExamineeExe.php on line 19
+[21-Oct-2022 06:26:38 UTC] PHP Notice:  Undefined variable: year_level in /home/yj41kcoiblwg/public_html/OnlineExamination/adminpanel/admin/query/addExamineeExe.php on line 19
+[21-Oct-2022 09:55:59 UTC] PHP Notice:  Undefined variable: year_level in /home/yj41kcoiblwg/public_html/OnlineExamination/adminpanel/admin/query/addExamineeExe.php on line 19
+[14-May-2024 09:12:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/loginExe.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/loginExe.php on line 8
+[14-May-2024 09:12:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/loginExe.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/loginExe.php on line 8
+[14-May-2024 09:12:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/loginExe.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/loginExe.php on line 8
+[14-May-2024 09:12:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/loginExe.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/loginExe.php on line 8
+[17-Jul-2024 12:44:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's first menstrual period and last until menopause')' at line 1 in /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/addExamExe.php:27
+Stack trace:
+#0 /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/addExamExe.php(27): PDO->query()
+#1 {main}
+  thrown in /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/addExamExe.php on line 27
+[17-Jul-2024 12:44:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's first menstrual period and last until menopause')' at line 1 in /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/addExamExe.php:27
+Stack trace:
+#0 /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/addExamExe.php(27): PDO->query()
+#1 {main}
+  thrown in /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/addExamExe.php on line 27
+[17-Jul-2024 12:44:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's first menstrual period and last until menopause')' at line 1 in /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/addExamExe.php:27
+Stack trace:
+#0 /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/addExamExe.php(27): PDO->query()
+#1 {main}
+  thrown in /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/addExamExe.php on line 27
+[17-Jul-2024 12:45:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's first menstrual period and last until menopause')' at line 1 in /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/addExamExe.php:27
+Stack trace:
+#0 /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/addExamExe.php(27): PDO->query()
+#1 {main}
+  thrown in /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/addExamExe.php on line 27
+[17-Jul-2024 12:47:02 UTC] PHP Warning:  Undefined variable $year_level in /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/addExamineeExe.php on line 19
+[18-Jul-2024 12:08:10 UTC] PHP Warning:  Undefined variable $year_level in /home/d6eiu167j59q/public_html/quiz.concepttc.com/OnlineExamination/adminpanel/admin/query/addExamineeExe.php on line 19
